@@ -7,4 +7,4 @@ Users are able to select any range of dates (so long as it satisfies the minimum
 Built with React, CSS, Express, and MongoDB - no third party styling and/or UI frameworks used.
 
 ## Demo
-COMING SOON.
+![Calendar Demo](https://media.giphy.com/media/60sTyI5cLaWwgI5fU5/giphy.gif)
