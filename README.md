@@ -9,8 +9,10 @@ Built with React, CSS, Express, and MongoDB - no third party styling and/or UI f
 ## Demo
 
 #### Calendar
-<img src="https://github.com/Home2Go/reservation-service/blob/main/img/dateSelection.gif" width="500">
-<img src="https://github.com/Home2Go/reservation-service/blob/main/img/monthScroll.gif" width="500">
+<p float="left">
+  <img src="https://github.com/Home2Go/reservation-service/blob/main/img/dateSelection.gif" width="470">
+  <img src="https://github.com/Home2Go/reservation-service/blob/main/img/monthScroll.gif" width="470" height="317.5">
+</p>
 
 #### Billing
 <img src="https://github.com/Home2Go/reservation-service/blob/main/img/checkAvailability.png" width="500">
