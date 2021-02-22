@@ -24,6 +24,7 @@
 .daysBetween {
     background-color: #f7f7f7;
     border-radius: 50%;
+    border: 1px solid transparent;
 }
 
 .calendarMonthAvailable button,
