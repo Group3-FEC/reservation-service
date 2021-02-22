@@ -15,4 +15,4 @@ Built with React, CSS, Express, and MongoDB - no third party styling and/or UI f
 </p>
 
 #### Billing
-<img src="https://github.com/Home2Go/reservation-service/blob/main/img/checkAvailability.png" width="500">
+<img src="https://github.com/Home2Go/reservation-service/blob/main/img/checkAvailability.png" width="470">
