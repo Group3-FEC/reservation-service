@@ -7,5 +7,10 @@ Users are able to select any range of dates (so long as it satisfies the minimum
 Built with React, CSS, Express, and MongoDB - no third party styling and/or UI frameworks used.
 
 ## Demo
-![Calendar Demo - Date Selection](https://github.com/Home2Go/reservation-service/blob/main/img/dateSelection.gif)
-![Calendar Demo - Month Scroll](https://github.com/Home2Go/reservation-service/blob/main/img/monthScroll.gif)
+
+#### Calendar
+<img src="https://github.com/Home2Go/reservation-service/blob/main/img/dateSelection.gif" width="500">
+<img src="https://github.com/Home2Go/reservation-service/blob/main/img/monthScroll.gif" width="500">
+
+#### Billing
+<img src="https://github.com/Home2Go/reservation-service/blob/main/img/checkAvailability.png" width="500">
